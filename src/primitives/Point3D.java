@@ -34,6 +34,8 @@ public class Point3D {
 			setZ(z);////gfgfdgfdgdfgdf
 		}
 		
+		
+	                   update2
 	}
 
 }
