@@ -31,7 +31,7 @@ public class Point3D {
 		public point3D(int x, int y, int z) {
 			setX(x);
 			setY(y);
-			setZ(z);
+			setZ(z);////gfgfdgfdgdfgdf
 		}
 		
 	}
